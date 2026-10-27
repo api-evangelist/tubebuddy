@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TubeBuddy is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://tubebuddy.com/
+TubeBuddy provides a suite of tools that help YouTube creators grow their channels, optimize video SEO, and manage content. The platform offers keyword research, thumbnail generation, bulk editing, analytics, and monetization calculators, all accessible through a browser extension and web dashboard. It serves creators of all sizes, from newcomers to established channels, aiming to increase visibility, subscriber growth, and revenue on YouTube.
+
+**Areas:** Company · YouTube · SEO · VideoTools · CreatorGrowth
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tubebuddy.com/)
+- [Documentation](https://support.tubebuddy.com/hc/en-us)
+- [Pricing](https://www.tubebuddy.com/pricing)
+- [Blog](https://www.tubebuddy.com/blog)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/tubebuddy/](https://apis.io/providers/tubebuddy/).
